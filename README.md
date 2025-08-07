@@ -26,11 +26,11 @@ AR.js considers a single unit to be equal to the estimated width of the marker (
 
 ## Screenshots
 
-[![Homepage](https://i.ibb.co/Q3WjD48G/Screen1.jpg)](https://ibb.co/RkX4jqhW)
-[![Hiro](https://i.ibb.co/ZpK1Gkg1/Screen2.jpg)](https://ibb.co/v6mvVKdv)
-[![Hiro-Interaction](https://i.ibb.co/NgV7wjr6/Screen3.jpg)](https://ibb.co/mrDSQq0C)
-[![NFT](https://i.ibb.co/RG2tsTn4/Screen4.jpg)](https://ibb.co/PsxJPGpz)
-[![NFT-Interaction](https://i.ibb.co/gZq7D1xB/Screen5.jpg)](https://ibb.co/xq9sMvNR)
+[![Homepage](https://i.ibb.co/Q3WjD48G/Screen1.jpg)]
+[![Hiro](https://i.ibb.co/ZpK1Gkg1/Screen2.jpg)]
+[![Hiro-Interaction](https://i.ibb.co/NgV7wjr6/Screen3.jpg)]
+[![NFT](https://i.ibb.co/RG2tsTn4/Screen4.jpg)]
+[![NFT-Interaction](https://i.ibb.co/gZq7D1xB/Screen5.jpg)]
 
 
 ## Link
