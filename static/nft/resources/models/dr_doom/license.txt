@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dr Doom busk
+* source:	https://sketchfab.com/3d-models/dr-doom-busk-50458493f9504e65aebb356486a1be2b
+* author:	Oophtaco (https://sketchfab.com/Oophtaco)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dr Doom busk" (https://sketchfab.com/3d-models/dr-doom-busk-50458493f9504e65aebb356486a1be2b) by Oophtaco (https://sketchfab.com/Oophtaco) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ff8c00;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  font-family: sans-serif;
+}
+
+#loader h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: black
+}
+
+.spinner {
+  border: 8px solid #ffffff60;
+  border-top: 8px solid white;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+
+#status-dot {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: red;
+    z-index: 10000;
+    border: 2px solid #fff;
+    display: none
+}
+
+#pos-display {
+  position: fixed;
+  bottom: 20px;
+  left: 5%;
+  width: 90%;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 10px;
+  font-family: monospace;
+  font-size: 14px;
+  white-space: pre-line;
+  z-index: 10000;
+  pointer-events: none;
+  box-sizing: border-box;
+  display: none;
+}
+
+#back-button {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  cursor: pointer;
+  z-index: 9999;
+  user-select: none;
+  transition: background-color 0.3s ease;
+}
+
+#back-button:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
