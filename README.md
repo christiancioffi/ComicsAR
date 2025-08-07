@@ -12,6 +12,16 @@ In both modes, the following are displayed:
 - the total distance between the marker and the camera.
 The unit of measurement for positions and distances is **meters**. Both AR.js and MindAR.js use a world reference system centered on the camera—meaning the world moves relative to the camera.
 
+## Technologies
+
+This project uses:
+- **HTML**, **JavaScript** and **CSS**.
+- **AR.js**: an open-source JavaScript library that enables Image Tracking, Location-based AR, and Marker Tracking. It uses:
+  - A-Frame (an HTML and JavaScript framework for AR/VR in the browser);
+  - Three.js (a JavaScript library for creating and displaying interactive 3D graphics in the browser);
+  - JSARToolKit5 (a JavaScript library for registration and tracking on explicit markers and NFT in the browser).
+- **MindAR.js**: an open-source JavaScript library that enables Image Tracking and Face Tracking. It uses A-Frame, Three.js and an internal tracking engine (written in WebAssembly).
+
 ## Interaction
 
 The user can interact with the virtual objects:
