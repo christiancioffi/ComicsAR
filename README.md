@@ -47,3 +47,12 @@ AR.js considers a single unit to be equal to the estimated width of the marker (
 ## Link
 The website is reachable at this [link](https://develop.ewlab.di.unimi.it/ComicsAR/).
 Markers are downloadable from this repository.
+
+## 3D models
+
+In this project the following models were used:
+
+- [Marvel's Spider-Man 2 - Spider-Man Advanced Suit](https://sketchfab.com/3d-models/marvels-spider-man-2-spider-man-advanced-suit-de365bdc8dd54d19bcd603305c2009c0)
+
+- [Dr. Doom Busk](https://sketchfab.com/3d-models/dr-doom-busk-50458493f9504e65aebb356486a1be2b)
+
