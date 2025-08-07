@@ -26,11 +26,11 @@ AR.js considers a single unit to be equal to the estimated width of the marker (
 
 ## Screenshots
 
-![Homepage](https://i.postimg.cc/yW9Y4sh7/Whats-App-Image-2025-08-07-at-15-34-22.jpg)
-![Hiro](https://i.postimg.cc/9wGWGYXD/Whats-App-Image-2025-08-07-at-15-34-22-1.jpg)
-![NFT](https://i.postimg.cc/MvSZzNtV/Whats-App-Image-2025-08-07-at-15-34-22-2.jpg)
-![Hiro-Interaction](https://i.postimg.cc/K1cZMT6Y/Whats-App-Image-2025-08-07-at-15-34-22-3.jpg)
-![NFT-interaction](https://i.postimg.cc/WhwNz8fK/Whats-App-Image-2025-08-07-at-15-34-23.jpg)
+![Homepage](https://i.postimg.cc/SXv85k6W/Screen1.jpg)
+![Hiro](https://i.postimg.cc/6TRRjsyv/Screen2.jpg)
+![Hiro-Interaction](https://i.postimg.cc/fS4dzCgy/Screen3.jpg)
+![NFT](https://i.postimg.cc/8fh6jvqH/Screen4.jpg)
+![NFT-interaction](https://i.postimg.cc/BLPDfkpR/Screen5.jpg)
 
 ## Link
 The website is reachable at this [link](https://develop.ewlab.di.unimi.it/ComicsAR/).
