@@ -26,15 +26,13 @@ AR.js considers a single unit to be equal to the estimated width of the marker (
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 2em; justify-content: center;">
   <img src="https://i.ibb.co/Q3WjD48G/Screen1.jpg" alt="Homepage" style="max-width: 90%; height: 500px; flex-shrink: 0;">
   <img src="https://i.ibb.co/ZpK1Gkg1/Screen2.jpg" alt="Hiro" style="max-width: 90%; height: 500px; flex-shrink: 0;">
   <img src="https://i.ibb.co/NgV7wjr6/Screen3.jpg" alt="Hiro-Interaction" style="max-width: 90%; height: 500px; flex-shrink: 0;">
   <img src="https://i.ibb.co/RG2tsTn4/Screen4.jpg" alt="NFT" style="max-width: 90%; height: 500px; flex-shrink: 0;">
   <img src="https://i.ibb.co/gZq7D1xB/Screen5.jpg" alt="NFT-Interaction" style="max-width: 90%; height: 500px; flex-shrink: 0;">
 </div>
-
-
 
 ## Link
 The website is reachable at this [link](https://develop.ewlab.di.unimi.it/ComicsAR/).
