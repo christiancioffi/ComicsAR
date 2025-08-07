@@ -26,11 +26,11 @@ AR.js considers a single unit to be equal to the estimated width of the marker (
 
 ## Screenshots
 
-<img src="https://i.ibb.co/Q3WjD48G/Screen1.jpg" alt="Homepage" style="maxwidth: 90%; height: 200px; margin-bottom: 1em;">
-<img src="https://i.ibb.co/ZpK1Gkg1/Screen2.jpg" alt="Hiro" style="max-width: 90%; height: 200px; margin-bottom: 1em;">
-<img src="https://i.ibb.co/NgV7wjr6/Screen3.jpg" alt="Hiro-Interaction" style="max-width: 90%; height: 200px; margin-bottom: 1em;">
-<img src="https://i.ibb.co/RG2tsTn4/Screen4.jpg" alt="NFT" style="max-width: 90%; height: 200px; margin-bottom: 1em;">
-<img src="https://i.ibb.co/gZq7D1xB/Screen5.jpg" alt="NFT-Interaction" style="max-width: 90%; height: 200px; margin-bottom: 1em;">
+<img src="https://i.ibb.co/Q3WjD48G/Screen1.jpg" alt="Homepage" style="maxwidth: 90%; height: 500px; margin-bottom: 1em;">
+<img src="https://i.ibb.co/ZpK1Gkg1/Screen2.jpg" alt="Hiro" style="max-width: 90%; height: 500px; margin-bottom: 1em;">
+<img src="https://i.ibb.co/NgV7wjr6/Screen3.jpg" alt="Hiro-Interaction" style="max-width: 90%; height: 500px; margin-bottom: 1em;">
+<img src="https://i.ibb.co/RG2tsTn4/Screen4.jpg" alt="NFT" style="max-width: 90%; height: 500px; margin-bottom: 1em;">
+<img src="https://i.ibb.co/gZq7D1xB/Screen5.jpg" alt="NFT-Interaction" style="max-width: 90%; height: 500px; margin-bottom: 1em;">
 
 
 ## Link
