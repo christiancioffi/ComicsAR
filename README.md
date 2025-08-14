@@ -12,7 +12,6 @@ In both modes, the following are displayed:
 - the total distance between the marker and the camera.
 The unit of measurement for positions and distances is **meters**. Both AR.js and MindAR.js use a world reference system centered on the camera—meaning the world moves relative to the camera.
 
-The estimated positions and distances are not very precise, they can differ by up to **10-20 cm** from the actual values.
 
 ## Technologies
 
@@ -35,6 +34,8 @@ The user can interact with the virtual objects:
 AR.js considers a single unit to be equal to the estimated width of the marker (regardless of the marker type). This should be taken into account when positioning virtual objects or calculating positions and distances. MindAR.js is very similar, but when calculating positions and distances, it assumes the marker's width is 1000 units (see https://github.com/hiukim/mind-ar-js/issues/537#issuecomment-2549723947). To obtain real-world distances in meters:
 - in the case of AR.js, values must be scaled by the real width of the marker (expressed in meters).
 - in the case of MindAR.js, values must be scaled by the real width of the marker multiplied by 1000.
+
+The estimated positions and distances are not very precise, they can differ by up to **10-20 cm** from the actual values.
 
 ## Screenshots
 
