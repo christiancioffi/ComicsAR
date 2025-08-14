@@ -12,7 +12,7 @@ In both modes, the following are displayed:
 - the total distance between the marker and the camera.
 The unit of measurement for positions and distances is **meters**. Both AR.js and MindAR.js use a world reference system centered on the camera—meaning the world moves relative to the camera.
 
-The estimated positions and distances are not very precise, they can differ by up to 10-20 cm from the actual values.
+The estimated positions and distances are not very precise, they can differ by up to **10-20 cm** from the actual values.
 
 ## Technologies
 
