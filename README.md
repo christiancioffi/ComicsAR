@@ -35,7 +35,7 @@ AR.js considers a single unit to be equal to the estimated width of the marker (
 - in the case of AR.js, values must be scaled by the real width of the marker (expressed in meters).
 - in the case of MindAR.js, values must be scaled by the real width of the marker multiplied by 1000.
 
-The estimated positions and distances are not very precise, they can differ by up to **20 cm** from the actual values.
+The estimated positions and distances are not very precise, they can differ by up to **30 cm** from the actual values.
 
 ## Screenshots
 
