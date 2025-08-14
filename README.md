@@ -53,7 +53,7 @@ Markers are downloadable from this repository.
 
 ## 3D models
 
-In this project the following models have been used:
+In this project the following 3D models have been used:
 
 - [Marvel's Spider-Man 2 - Spider-Man Advanced Suit](https://sketchfab.com/3d-models/marvels-spider-man-2-spider-man-advanced-suit-de365bdc8dd54d19bcd603305c2009c0)
 
